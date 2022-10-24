@@ -1,5 +1,5 @@
 # System-Design-For-Datacenter-Network
-A paper list of high-performance technologies in data center network, targeting system design.
+A paper list of high-performance technologies in data center network, system-oriented.
 
 ## Catalog
 **For some selected papers, we have provided reading blogs in Chinese.**
