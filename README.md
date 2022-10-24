@@ -4,7 +4,7 @@ A paper list of high-performance technologies in data center network, system-ori
 ## Catalog
 **For some selected papers, we have provided reading blogs in Chinese.**
 
-#### 1 [Federated Learning Foundation](#survey)
+#### 1 [DCN Foundation](#survey)
 #### 2 [Research Areas](#areas)
 
 - 2.1 [RDMA-based Optimization](#RDMA)
